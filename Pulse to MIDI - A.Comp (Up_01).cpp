@@ -7,6 +7,8 @@ Input click quarter note.
 More info at: 
 https://ambinaut.wordpress.com/2017/04/19/click-track-to-midi-clock-converter/
 https://github.com/ambinaut/click-track-to-MIDI-clock-converter
+For personal use only! If you share this also include this header. 
+Commercial usage only with my permision.
 */
 
 #define F_CPU 16000000UL
